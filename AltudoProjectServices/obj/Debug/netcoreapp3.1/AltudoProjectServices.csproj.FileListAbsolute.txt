@@ -1,0 +1,12 @@
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\bin\Debug\netcoreapp3.1\AltudoProjectModels.dll
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.csprojAssemblyReference.cache
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.AssemblyInfoInputs.cache
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.AssemblyInfo.cs
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\bin\Debug\netcoreapp3.1\AltudoProjectServices.deps.json
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\bin\Debug\netcoreapp3.1\AltudoProjectServices.dll
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\bin\Debug\netcoreapp3.1\AltudoProjectServices.pdb
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\bin\Debug\netcoreapp3.1\AltudoProjectModels.pdb
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.csproj.CopyComplete
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.dll
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.pdb
+C:\Users\filli\source\repos\AltudoProject\AltudoProjectServices\obj\Debug\netcoreapp3.1\AltudoProjectServices.csproj.CoreCompileInputs.cache
