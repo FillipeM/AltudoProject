@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProject\\AltudoProject.csproj": {}
+    "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProject\\AltudoProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj": {
+    "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
+        "projectUniqueName": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
         "projectName": "AltudoProjectModels",
-        "projectPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
+        "projectPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
         "packagesPath": "C:\\Users\\filli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\obj\\",
+        "outputPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj": {
+    "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj",
+        "projectUniqueName": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj",
         "projectName": "AltudoProjectServices",
-        "projectPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj",
+        "projectPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj",
         "packagesPath": "C:\\Users\\filli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\obj\\",
+        "outputPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -91,8 +91,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj": {
-                "projectPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj"
+              "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj": {
+                "projectPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProject\\AltudoProject.csproj": {
+    "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProject\\AltudoProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProject\\AltudoProject.csproj",
+        "projectUniqueName": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProject\\AltudoProject.csproj",
         "projectName": "AltudoProject",
-        "projectPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProject\\AltudoProject.csproj",
+        "projectPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProject\\AltudoProject.csproj",
         "packagesPath": "C:\\Users\\filli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProject\\obj\\",
+        "outputPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -163,8 +163,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj": {
-                "projectPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj"
+              "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj": {
+                "projectPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj"
               }
             }
           }

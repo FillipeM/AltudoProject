@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
+      "projectUniqueName": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
       "projectName": "AltudoProjectModels",
-      "projectPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
+      "projectPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\AltudoProjectModels.csproj",
       "packagesPath": "C:\\Users\\filli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectModels\\obj\\",
+      "outputPath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

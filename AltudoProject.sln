@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltudoProjectServices", "Al
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AltudoProjectModels", "AltudoProjectModels\AltudoProjectModels.csproj", "{5372C221-A6C2-43BA-8459-2292FA5FBE74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{9875F69A-BDE8-44AC-B367-037CA5BAD3A0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{5372C221-A6C2-43BA-8459-2292FA5FBE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5372C221-A6C2-43BA-8459-2292FA5FBE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5372C221-A6C2-43BA-8459-2292FA5FBE74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9875F69A-BDE8-44AC-B367-037CA5BAD3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9875F69A-BDE8-44AC-B367-037CA5BAD3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9875F69A-BDE8-44AC-B367-037CA5BAD3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9875F69A-BDE8-44AC-B367-037CA5BAD3A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

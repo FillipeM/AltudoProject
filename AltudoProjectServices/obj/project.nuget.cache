@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "106ai4TPVr4U4bnWyZp8i3fIxdM9Lojusx8vWMG5l+0fByIQGtN4LSEnxHgJtdGATDNr5BJ7EeEC1Y6MJUbR1A==",
+  "dgSpecHash": "BpzMu+KCvb/Q+ZIXGGe5gqHEvPLBYvZ/Lf7NA9ycP0hX0n3CXYF9DQ9v6W3WeVlbqlqhb4ogAMUNBUbdBy7Hnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\filli\\source\\repos\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj",
+  "projectFilePath": "C:\\Users\\filli\\Documents\\Git\\AltudoProject\\AltudoProjectServices\\AltudoProjectServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filli\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512",
     "C:\\Users\\filli\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
